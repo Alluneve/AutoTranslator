@@ -1,4 +1,4 @@
-package com.example;
+package com.autotranslator;
 
 import com.deepl.api.DeepLClient;
 import com.deepl.api.DeepLException;
